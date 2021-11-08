@@ -1,0 +1,18 @@
+.sidebar {
+  padding: "8px 35px 8px 20px";
+}
+.sidebarHeader {
+  padding: "8px 35px 8px 20px";
+}
+
+.sidebarFooter {
+  padding: "8px 35px 8px 20px";
+}
+.link {
+  position: "relative";
+  display: "flex";
+  padding: "12px 35px 8px 20px";
+  cursor: "pointer";
+  text-decoration: "none";
+  color: "#adadad";
+}
